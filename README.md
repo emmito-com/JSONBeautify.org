@@ -58,30 +58,3 @@ Unlike many online JSON tools, **JSONBeautify.org never sends your data to a ser
 👉 Try it live: **https://jsonbeautify.org**
 
 (Add screenshots here later for higher engagement)
-
----
-
-## 🛠 Tech Stack
-
-- React (TypeScript)
-- Client-side only
-- Firebase Hosting
-- No backend required
-
----
-
-## 🤝 Contributing
-
-This project is open to ideas and improvements.
-
-If you have feature requests or suggestions, feel free to open an issue.
-
----
-
-## ⭐ Support the Project
-
-If you find this tool useful:
-- Star this repository ⭐
-- Share https://jsonbeautify.org with other developers
-
-It really helps!
