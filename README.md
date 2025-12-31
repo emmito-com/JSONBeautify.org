@@ -1,6 +1,6 @@
 # jsonbeautify.org – Free Online JSON Formatter & Validator
 
-🔗 **Live Tool:** https://jsonbeautify.org
+🔗 **Live Tool:** https://www.jsonbeautify.org
 
 JSONBeautify.org is a fast, privacy-first **online JSON formatter, validator, and comparison tool** built for developers.
 
@@ -55,7 +55,7 @@ Unlike many online JSON tools, **JSONBeautify.org never sends your data to a ser
 
 ## 📸 Preview
 
-👉 Try it live: **https://jsonbeautify.org**
+👉 Try it live: **https://www.jsonbeautify.org**
 
 
 - Dark Theme
