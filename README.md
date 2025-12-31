@@ -57,7 +57,28 @@ Unlike many online JSON tools, **JSONBeautify.org never sends your data to a ser
 
 👉 Try it live: **https://jsonbeautify.org**
 
+
+- Dark Theme
 ![Dark Theme](/screenshots/jsonformatterdarktheme.png)
 
+- JSON Comparison
+![Dark Theme](/screenshots/jsoncompare.png)
 
+- JSON Convertor
+![Dark Theme](/screenshots/jsonconvertor.png)
+
+- JSON Auto Error Fixing
+![Dark Theme](/screenshots/jsonerrorfix.png)
+
+- JSON Tree view
+![Dark Theme](/screenshots/jsontreeview.png)
+
+- JSON Tree view
+![Dark Theme](/screenshots/jsonsearch.png)
+
+- JSON Sorting
+![Dark Theme](/screenshots/Jsonsorting.png)
+
+- JSON Formatter & Beautify
+![Dark Theme](/screenshots/jsonformatter.png)
 
