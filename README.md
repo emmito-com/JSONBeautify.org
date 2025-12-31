@@ -1,4 +1,4 @@
-# JSONBeautify.org – Free Online JSON Formatter & Validator
+# jsonbeautify.org – Free Online JSON Formatter & Validator
 
 🔗 **Live Tool:** https://jsonbeautify.org
 
