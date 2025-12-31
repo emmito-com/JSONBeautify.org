@@ -57,7 +57,7 @@ Unlike many online JSON tools, **JSONBeautify.org never sends your data to a ser
 
 👉 Try it live: **https://jsonbeautify.org**
 
-## Screenshots
+![Dark Theme](/screenshots/jsonformatterdarktheme.png)
 
-![Alt text](https://github.com/emmito-com/JSONBeautify.org/blob/main/screenshots/jsonformatterdarktheme.png?raw=true"JSONBeautify Dark Theme")
+
 
