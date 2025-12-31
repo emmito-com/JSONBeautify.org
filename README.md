@@ -18,7 +18,7 @@ No signup. No data upload. Everything runs **100% in your browser**.
 - ✅ Large JSON support
 - ✅ Works offline after load
 - ✅ 100% client-side (no server, no tracking)
-
+- ✅ Dark Theme
 ---
 
 ## 🔒 Privacy First
@@ -57,4 +57,7 @@ Unlike many online JSON tools, **JSONBeautify.org never sends your data to a ser
 
 👉 Try it live: **https://jsonbeautify.org**
 
-(Add screenshots here later for higher engagement)
+## Screenshots
+
+![Alt text](https://github.com/emmito-com/JSONBeautify.org/blob/main/screenshots/jsonformatterdarktheme.png?raw=true"JSONBeautify Dark Theme")
+
